@@ -1,0 +1,15 @@
+com\booklib\dao\AuthorDAO.class
+com\booklib\model\Book.class
+com\booklib\servlet\author\UpdateServlet.class
+com\booklib\model\Author.class
+com\booklib\servlet\book\StoreServlet.class
+com\booklib\servlet\author\IndexServlet.class
+com\booklib\model\Message.class
+com\booklib\util\Helper.class
+com\booklib\servlet\author\DestroyServlet.class
+com\booklib\util\DBConnectionManager.class
+com\booklib\servlet\author\StoreServlet.class
+com\booklib\servlet\book\DestroyServle.class
+com\booklib\servlet\book\UpdateServlet.class
+com\booklib\dao\BookDAO.class
+com\booklib\servlet\book\IndexServlet.class
